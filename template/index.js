@@ -1,5 +1,10 @@
 var MyComponent = san.defineComponent({
-    template: '<h1>Hello San !</h1>'
+    template: '<h1>Hello {{name}} !</h1>',
+    initData: function(){
+        return {
+            name: 'San'
+        };
+    }
 });
 
 var myComponent = new MyComponent();

@@ -1,4 +1,7 @@
 {
+    "ignore": [
+        "index.js"
+    ],
     "schema": {
         "name": {
             "type": "string",
