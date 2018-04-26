@@ -1,6 +1,6 @@
 {
     "ignore": [
-        "index.js"
+        "template/index.js"
     ],
     "schema": {
         "name": {
