@@ -1,0 +1,14 @@
+{
+    "schema": {
+        "name": {
+            "type": "string",
+            "label": "What's your project name?",
+            "required": true
+        },
+        "description": {
+            "type": "string",
+            "label": "What's your project description?",
+            "required": false
+        }
+    }
+}
