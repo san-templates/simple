@@ -1,7 +1,5 @@
 {
-    "ignore": [
-        "template/index.js"
-    ],
+    "ignore": [],
     "schema": {
         "name": {
             "type": "string",
